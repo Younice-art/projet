@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:#f4f4f9;
+    color:#333;
+}
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+footer {
+    text-align: center;
+    background-color: #333;
+    color:white;
+    padding: 10px;
+}
+.titre {
+    font-size: 24px;
+    color: #333;
+}
+.button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.for {
+    padding: 5px;
+    width: 300px;
+    text-align: start;
+    background-color: rgb(250, 5, 168);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.loi {
+    padding: 5px;
+    width: 300px;
+    text-align: start;
+    background-color: rgb(29, 5, 250);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.grande {
+    display: flex;
+    gap: 10px;
+}
